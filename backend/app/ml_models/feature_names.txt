@@ -1,0 +1,12 @@
+magnitude
+depth
+weather_score
+population_density
+accessibility_score
+vulnerability_score
+seismic_risk_score
+exposure_score
+resilience_score
+children_pct
+elder_pct
+disability_pct

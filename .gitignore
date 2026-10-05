@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing / temporary files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Python test files created temporarily
+test_*.py
+# Vite PWA generated files
+dev-dist/
